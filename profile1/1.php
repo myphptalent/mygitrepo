@@ -1,3 +1,4 @@
 <?php
-echo "profile1"; exit;
+echo "profile1";
+echo "profilenew"; exit;
 ?>
